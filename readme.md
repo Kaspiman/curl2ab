@@ -19,7 +19,7 @@ Go to `localhost:1234`
 ```
 docker compose run app npm run build
 # or without docker
-npm run build
+npm install && npm run build
 ```
 
 ## Credits

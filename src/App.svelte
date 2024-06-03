@@ -31,7 +31,7 @@
         }
       });
       abInput = `${abString} '${url}'`;
-    } else if (curlInpu.length >= 4) {
+    } else if (curlInput.length >= 4) {
       errors.curl = `cURL command must start with <code>curl</code> and followed by the url wrapped in single quote like <code>'${document.location}'</code>`;
     }
   }

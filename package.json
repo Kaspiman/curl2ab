@@ -1,6 +1,6 @@
 {
   "name": "curl2ab",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Convert curl command line to ab command line",
   "main": "src/index.html",
   "scripts": {
@@ -22,10 +22,10 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {},
   "devDependencies": {
-    "normalize.css": "^8.0.1",
-    "parcel-bundler": "^1.12.5",
-    "parcel-plugin-svelte": "^4.0.9",
-    "prettier": "^3.2.5",
-    "svelte": "^3.59.2"
+    "normalize.css": "^8.0",
+    "parcel-bundler": "^1.12",
+    "parcel-plugin-svelte": "^4.0",
+    "prettier": "^3.2",
+    "svelte": "^3.59"
   }
 }
